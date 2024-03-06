@@ -1,0 +1,65 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:54:5"
+
+[OnWave]
+Class="Function"
+Prototype="int OnWave(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:74:17"
+
+[OnFreq]
+Class="Function"
+Prototype="int OnFreq(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:92:17"
+
+[LoadWave]
+Class="Function"
+Prototype="int LoadWave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:111:17"
+
+[ENVELOPE]
+Class="Function"
+Prototype="int ENVELOPE(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:189:18"
+
+[AplicaButton]
+Class="Function"
+Prototype="int AplicaButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:210:18"
+
+[Previous]
+Class="Function"
+Prototype="int Previous(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:264:17"
+
+[Next]
+Class="Function"
+Prototype="int Next(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:309:17"
+
+[Save]
+Class="Function"
+Prototype="int Save(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:356:18"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:401:18"
+
+[GraphSelectionFq]
+Class="Function"
+Prototype="int GraphSelectionFq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:425:17"
+
+[FreqPrevious]
+Class="Function"
+Prototype="int FreqPrevious(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:542:17"
+
+[FreqNext]
+Class="Function"
+Prototype="int FreqNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\simon\Downloads\Huminiuc_Simona_33WAV_data_2_2\ProiectAPD\ProiectAPD\CVI Project\project.c:566:17"
+
