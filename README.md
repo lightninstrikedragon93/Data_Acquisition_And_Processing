@@ -10,7 +10,7 @@ Analize and filter a given sound
 3. Run project.exe file
 
 ## Usage
-Can be used in analing, processing and observing a given sound. Can be added other functions for filtering and/or windowing.
+Can be used in analysing, processing and observing a given sound. Can be added other functions for filtering and/or windowing.
 
 ## Screenshots
 ![Graph](https://github.com/lightninstrikedragon93/Data_Acquisition_And_Processing/assets/119291205/183f8138-fbb9-4117-84ef-bd07f2f9d8bc)
